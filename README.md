@@ -164,7 +164,7 @@ Best viewed in Microsoft Excel Desktop for full support of slicers, maps, and da
 
 - `Ecommerce Sales Analysis.xlsx` - main project workbook
 - `README.md` - project documentation
-- `image.png`, `image-1.png`, `image-2.png` - dashboard preview images
+- `image.png`, `image-1.png` - dashboard preview images
 
 ---
 
